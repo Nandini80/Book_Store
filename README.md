@@ -25,9 +25,8 @@ been taken from the store but still on way
 
 <img width="490" alt="image" src="https://github.com/Nandini80/Book_Store/assets/121488571/f3827ca5-a058-4cbd-919e-4d684dfdac11">
 
-<img width="239" alt="image" src="https://github.com/Nandini80/Book_Store/assets/121488571/58b89926-1b76-45f9-b770-bb91c9b73324">
+<img width="267" alt="image" src="https://github.com/Nandini80/Book_Store/assets/121488571/80771007-0977-47d9-b679-4460484796f2">
 
 <img width="198" alt="image" src="https://github.com/Nandini80/Book_Store/assets/121488571/480b8886-26d6-48b1-a7c0-506844f7384b">
 
-<img width="267" alt="image" src="https://github.com/Nandini80/Book_Store/assets/121488571/80771007-0977-47d9-b679-4460484796f2">
-
+<img width="239" alt="image" src="https://github.com/Nandini80/Book_Store/assets/121488571/58b89926-1b76-45f9-b770-bb91c9b73324">
