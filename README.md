@@ -2,10 +2,10 @@
 This project aims to provide store managers durability while accessing data, shortest route, placing order etc. Using this project or application store managers can get access to all data related buying and delivering of products.
 
 # Data structures used
-linked list
-graphs
-Array 
-AVL trees
+linked list,
+graphs,
+Array, 
+AVL trees.
 
 # Working 
 On starting the program first you’ll go to the main page where you’ll be given different options
